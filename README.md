@@ -38,3 +38,5 @@ Skills:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MHRONY96)  
 
 ![Profile views](https://gpvc.arturio.dev/MHRONY96)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
