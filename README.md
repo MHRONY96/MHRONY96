@@ -4,7 +4,16 @@
 
 I Complete a BSc in Computer Science Engineering at the Eastern University. I do Work on Laravel Framework. I do Job Apsis Solution
 
-Skills: php/ Laravel / REACT / JS / HTML / CSS / BOOTSTRAP / JavaScript / jQuery /
+Skills:
+✔ php 
+✔ Laravel
+✔ REACT 
+✔ JS
+✔ HTML
+✔ CSS
+✔ BOOTSTRAP
+✔ JavaScript
+✔ jQuery
 
 - 🔭 I’m currently working on Apsis Solution 
 - 🌱 I’m currently learning Laravel, React 
