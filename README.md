@@ -7,13 +7,15 @@ I Complete a BSc in Computer Science Engineering at the Eastern University. I do
 Skills:
 ✔ php 
 ✔ Laravel
-✔ REACT 
-✔ JS
+✔ REACT
 ✔ HTML
 ✔ CSS
 ✔ BOOTSTRAP
 ✔ JavaScript
 ✔ jQuery
+✔ Ajax
+✔ MySql
+✔ Json
 
 - 🔭 I’m currently working on Apsis Solution 
 - 🌱 I’m currently learning Laravel, React 
